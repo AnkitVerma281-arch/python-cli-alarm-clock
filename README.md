@@ -96,4 +96,4 @@ This is a proposed live presentation sequence, not a claim that physical keyboar
 
 ## Submission contents
 
-Submit only `alarm.py`, `test_alarm.py`, `README.md`, `PLAN.md`, `MANUAL_TESTS.md`, and `.gitignore`. The prepared ZIP uses this explicit file list. `.gitignore` excludes credential/config files, virtual environments, bytecode, caches, and build artifacts from future Git additions; ignore rules alone do not remove already tracked files or filter arbitrary ZIP commands. No credentials or runtime environments are required.
+Submit only `alarm.py`, `test_alarm.py`, `README.md`, `PLAN.md`, and `MANUAL_TESTS.md`. The prepared ZIP uses this explicit file list.
